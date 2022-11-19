@@ -27,7 +27,7 @@ az extension add -n ml -y
 ## For backward compatibility - running on old subscription
 # <set_variables>
 GROUP="azureml-examples"
-LOCATION="eastus"
+LOCATION="eastus2"
 WORKSPACE="main"
 # </set_variables>
 
